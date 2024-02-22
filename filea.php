@@ -1,4 +1,5 @@
 <?php
-$a=40;
+$a=40;$b=jqk;
 echo $a;
+echo $b;
 ?>
